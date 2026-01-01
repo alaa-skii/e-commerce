@@ -1,0 +1,60 @@
+body{
+   
+    background: url("images/inscription.jpg");
+     background-size: 100% 100%;
+}
+h1{
+    text-align: center;
+    border: double,2px;
+    border-radius: 15px;
+    width: 80%;
+    margin-left:170px;
+    height:5%;
+}
+#connexion{
+    margin-top: 10%;
+    margin-left: 30%;
+    background: rgba(0,0,200,0.7);
+    width: 40%;
+    height: 50%;
+    border: double 2px;
+    border-radius:15px;
+    
+
+}
+h2{
+    font-weight: bold;
+color: aliceblue;
+font-family: Arial;
+font-size: 35px;
+}
+.emailAndPassword{
+     color: aliceblue;
+    display: block;
+    margin-left: 50px;
+   
+}
+.email{
+    font-family: Arial;
+    display: inline-block;
+     font-size: 25px;
+     margin-left: 30px;
+}
+.password{
+   font-family: Arial;
+      margin-top: 50px;
+        display: inline-block;
+ font-size: 25px;
+}
+.buttons{
+    margin-left: 40px;
+    font-family: Arial;
+    margin-top: 50px;
+     font-size: 25px; 
+}
+h3{
+    background-color: red;
+    color: aliceblue;
+    width:14%;
+    height: 3%;
+}

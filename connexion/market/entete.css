@@ -1,0 +1,53 @@
+#menu{
+    border: double,2px,black;
+    width:80%;
+    font-size:20px;
+    text-align:center;
+    padding:40px;
+    position:fixed;
+    top:0px;
+    left:10%;
+    border-radius: 15px;
+    transition: 2s;
+    background-color: rgb(17, 148, 148);
+}
+.a1{
+    text-decoration:none;
+    display: inline-block;
+     margin-left: 10px;
+     border: 2px,double,white;
+     padding:15px;
+     background-color: white;
+     border-radius:15px;
+     color:cadetblue
+    
+}
+#icon{
+    height:100px;
+     width:100px;
+     position:fixed;
+     left:10%;
+     top:1%
+}
+.a1:hover{
+    background-color: black;
+    color:brown;
+    transition:1s;
+    text-shadow:3px 3px 3px red;
+    box-shadow:9px 9px 9px black;
+}
+#modeSombre{
+   height:30;
+   width:30;
+   position: inline-block;
+   margin-left: 100px;
+   cursor: pointer;
+}
+#buttonModeSombre{
+background-color: rgb(17, 148, 148);
+border:0px;
+}
+#vide{
+     height:20%;
+    width:100%;
+}

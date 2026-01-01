@@ -1,0 +1,44 @@
+#diventete{
+    height:80%;
+    width:80%;
+    border:double 5px;
+margin:auto;
+margin-top: 5%;
+background-color:rgba(0,0,0,1);
+border-radius: 10px;
+box-shadow: 9px 9px 9px rgba(17, 4, 4, 0.6);
+}
+h1{
+    padding: 30px;
+    text-align: center;
+    font-family: cursive;
+    color:aquamarine
+}
+p{
+   
+    font-family: cursive;
+    color:azure;
+    font-size:20px;
+}
+#commenter{
+    font-size: 13px;
+    font-family: cursive;
+    margin-top:-11px;
+    border-radius: 10px;
+}
+img{
+    position: absolute;
+    left:70%;
+    top:55%;
+}
+body{
+    Background:url("Background GIF by Brad Friedman Social Media.gif");
+    
+}
+#submit{
+    position:absolute;
+    left:40%;
+    top:80%;
+    padding:15px;
+width:10%;
+}

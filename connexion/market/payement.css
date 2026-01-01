@@ -1,0 +1,102 @@
+h1{
+    text-align: center;
+}
+#produite{
+    display: inline-block;
+border: double,2px;
+vertical-align: top;
+
+}
+#clientInformation{
+    margin-left: 200px;
+    display: inline-block;
+border: double,2px;
+vertical-align: top;
+}
+#photo{
+    
+    height: 500px;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+img{
+   width: 300px;
+    height: 500px; 
+}
+#produitInformation{
+    display: inline-block;
+    margin-left: 30px;
+     width: 500px;
+    height: 500px; 
+    vertical-align: top;
+    
+}
+#nom{
+
+font-family: arial;
+font-size: 22px;
+}
+#prix{
+
+font-family: arial;
+font-size: 32px;
+margin-top: 30px;
+}
+#compteur{
+
+font-family: arial;
+font-size: 22px;
+margin-top: 30px;
+}
+#somme{
+font-family: arial;
+font-size: 22px;
+margin-top: 30px;
+}
+#quantity{
+    height: 50x;
+    width: 90px;
+    font-family: arial;
+font-size: 22px;
+    margin-top: 30px;
+}
+.informationClient{
+    margin-top: 59px;
+font-family: arial;
+font-size: 22px;
+ width: 500px;
+ text-align: center;
+}
+.inputInformationClient{
+    width: 250px;
+    height: 25px;
+}
+#wilaya{
+     width: 250px;
+    height: 25px;
+}
+#envoyer{
+text-align: center; 
+width: 12%;
+height: 10%;
+font-family: arial;
+font-size: 22px;
+}
+#buttoncenter{
+ 
+    text-align: center;
+}
+#success{
+    background-color: green;
+    color: aliceblue;
+}
+#failed{
+    background-color: rgb(214, 30, 30);
+    color: aliceblue;
+    height: 40px;
+    width: 180px;
+}
+body{
+    background-color:beige;
+}
